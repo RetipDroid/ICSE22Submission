@@ -1,0 +1,161 @@
+App #,APP Name,Package name,Testing tool,Activity Coverage,,
+1,Timber,naman14.timber,APE,71.43%,57.14%,71.43%
+,Number of Activities: 7,,Stoat,71.43%,71.43%,71.43%
+,Lines of Code: 11989,,Re,85.71%,85.71%,85.70%
+,,,Monkey,85.71%,85.71%,85.71%
+2,SuntimesWidget,com.forrestguice.suntimeswidget,APE,42.31%,42.31%,34.62%
+,Number of Activities: 26,,Stoat,3.85%,3.85%,7.69%
+,Lines of Code: 29972,,Re,42.31%,26.92%,19.20%
+,,,Monkey,15.38%,26.92%,23.10%
+3,alarmclock,com.better.alarm,APE,40.00%,40.00%,40.00%
+,Number of Activities: 5,,Stoat,40.00%,40.00%,40.00%
+,Lines of Code: 3744,,Re,40.00%,40.00%,40.00%
+,,,Monkey,40.00%,40.00%,40.00%
+4,Notes,org.billthefarmer.notes,APE,100.00%,100.00%,100.00%
+,Number of Activities: 3,,Stoat,66.67%,66.67%,66.67%
+,Lines of Code: 1724,,Re,100.00%,100.00%,100.00%
+,,,Monkey,66.67%,66.67%,33.33%
+5,PasswordMaker,org.passwordmaker.android,APE,87.50%,87.50%,87.50%
+,Number of Activities: 8,,Stoat,62.50%,62.50%,62.50%
+,Lines of Code: 1824,,Re,87.50%,87.50%,87.50%
+,,,Monkey,75.00%,37.50%,50.00%
+6,swiftp,be.ppareit.swiftp,APE,75.00%,75.00%,75.00%
+,Number of Activities: 4,,Stoat,75.00%,75.00%,75.00%
+,Lines of Code: 3217,,Re,75.00%,75.00%,75.00%
+,,,Monkey,75.00%,75.00%,50.00%
+7,materialistic,io.github.hidroh.materialistic,APE,60.87%,78.26%,82.61%
+,Number of Activities: 23,,Stoat,21.74%,30.43%,30.43%
+,Lines of Code: 8091,,Re,82.61%,86.96%,82.61%
+,,,Monkey,26.09%,26.09%,34.78%
+8,AntennaPod,de.danoeh.antennapod,APE,36.36%,36.36%,45.45%
+,Number of Activities: 11,,Stoat,27.27%,18.18%,18.18%
+,Lines of Code: 25990,,Re,45.45%,36.36%,36.36%
+,,,Monkey,27.27%,36.36%,27.27%
+9,vanilla,ch.blinkenlights.android.vanilla,APE,61.54%,61.54%,53.85%
+,Number of Activities: 13,,Stoat,23.08%,7.69%,23.08%
+,Lines of Code: 7825,,Re,61.54%,53.80%,61.50%
+,,,Monkey,38.46%,30.80%,45.50%
+10,AnyMemo,org.liberty.android.fantastischmemo,APE,67.86%,67.86%,57.14%
+,Number of Activities: 28,,Stoat,17.86%,14.29%,25.00%
+,Lines of Code: 12073,,Re,64.29%,60.70%,64.30%
+,,,Monkey,10.71%,10.71%,17.90%
+11,uhabits,org.isoron.uhabits,APE,42.86%,50.00%,50.00%
+,Number of Activities: 13,,Stoat,28.57%,7.14%,7.14%
+,Lines of Code: 10485,,Re,50.00%,42.90%,42.90%
+,,,Monkey,57.14%,42.90%,42.90%
+12,BetterBatteryStats,com.asksven.betterbatterystats_xdaedition,APE,83.33%,83.33%,75.00%
+,Number of Activities: 12,,Stoat,16.67%,8.33%,8.33%
+,Lines of Code: 5833,,Re,83.33%,66.70%,75.00%
+,,,Monkey,16.67%,16.67%,16.67%
+13,APhotoManager,de.k3b.android.androFotoFinder,APE,81.82%,72.73%,81.82%
+,Number of Activities: 11,,Stoat,45.45%,45.45%,36.36%
+,Lines of Code: 8748,,Re,81.82%,81.80%,81.80%
+,,,Monkey,18.18%,18.18%,18.18%
+14,keepassdroid,com.android.keepass,APE,26.67%,26.67%,26.67%
+,Number of Activities: 15,,Stoat,6.67%,20.00%,6.67%
+,Lines of Code: 8596,,Re,26.67%,26.70%,26.70%
+,,,Monkey,20.00%,20.00%,20.00%
+15,K-9 Mail,com.fsck.k9,APE,11.11%,11.11%,11.11%
+,Number of Activities: 27,,Stoat,11.11%,7.41%,7.41%
+,Lines of Code: 40478,,Re,11.11%,11.11%,11.11%
+,,,Monkey,11.11%,11.11%,11.11%
+16,Wikipedia,org.wikipedia,APE,32.50%,32.50%,35.00%
+,Number of Activities: 40,,Stoat,15.00%,5.00%,7.50%
+,Lines of Code: 38222,,Re,60.00%,50.00%,2.50%
+,,,Monkey,35.00%,40.00%,20.00%
+17,Omni-Notes,it.feio.android.omninotes,APE,14.29%,14.29%,21.43%
+,Number of Activities: 14,,Stoat,35.71%,14.29%,28.57%
+,Lines of Code: 10107,,Re,28.57%,42.86%,57.14%
+,,,Monkey,21.43%,14.29%,14.29%
+18,Leeco,com.nightonke.leetcoder,APE,20.00%,20.00%,10.00%
+,Number of Activities: 10,,Stoat,60.00%,60.00%,60.00%
+,Lines of Code: 4374,,Re,60.00%,60.00%,60.00%
+,,,Monkey,60.00%,60.00%,50.00%
+19,red moon,com.jmstudios.redmoon,APE,50.00%,66.67%,100.00%
+,Number of Activities: 5,,Stoat,100.00%,100.00%,100.00%
+,Lines of Code: 1724,,Re,66.67%,100.00%,100.00%
+,,,Monkey,100.00%,100.00%,100.00%
+20,qksms,com.moez.QKSMS,APE,83.33%,83.33%,83.33%
+,Number of Activities: 12,,Stoat,25.00%,25.00%,8.33%
+,Lines of Code: 14194,,Re,83.33%,83.33%,83.33%
+,,,Monkey,58.33%,50.00%,50.00%
+21,forecastie,cz.martykan.forecastie,APE,100.00%,100.00%,100.00%
+,Number of Activities: 5,,Stoat,80.00%,80.00%,80.00%
+,Lines of Code: 3236,,Re,100.00%,100.00%,100.00%
+,,,Monkey,60.00%,80.00%,100.00%
+22,SkyTube,free.rm.skytube.oss,APE,100.00%,100.00%,100.00%
+,Number of Activities: 7,,Stoat,42.86%,57.14%,42.86%
+,Lines of Code: 8432,,Re,85.71%,85.71%,85.71%
+,,,Monkey,42.86%,28.57%,57.14%
+50,Nextcloud,com.nextcloud.android.qa,APE,50.00%,66.67%,50.00%
+,Number of Activities: 6,,Stoat,50.00%,50.00%,50.00%
+,Lines of Code: 2777,,Re,66.67%,66.67%,66.67%
+,,,Monkey,50.00%,66.67%,50.00%
+24,FairEmail,eu.faircode.email,APE,20.00%,20.00%,20.00%
+,Number of Activities: 10,,Stoat,30.00%,20.00%,30.00%
+,Lines of Code: 75557,,Re,30.00%,30.00%,30.00%
+,,,Monkey,30.00%,30.00%,30.00%
+25,PocketHub,com.github.pockethub.android.debug,APE,11.11%,11.11%,11.11%
+,Number of Activities: 27,,Stoat,3.70%,3.70%,7.41%
+,Lines of Code: 11527,,Re,11.11%,11.11%,11.11%
+,,,Monkey,11.11%,11.11%,11.11%
+26,fossasia,io.pslab,APE,45.45%,54.55%,51.52%
+,Number of Activities: 33,,Stoat,9.09%,21.21%,18.18%
+,Lines of Code: 21399,,Re,81.82%,63.64%,81.82%
+,,,Monkey,36.36%,30.30%,27.27%
+27,plees-tracker,hu.vmiklos.plees_tracker,APE,100.00%,100.00%,100.00%
+,Number of Activities: 6,,Stoat,100.00%,83.33%,66.67%
+,Lines of Code: 1710,,Re,100.00%,100.00%,100.00%
+,,,Monkey,66.67%,50.00%,66.67%
+28,Rugby Ranker,com.ricknout.rugbyranker,APE,100.00%,100.00%,100.00%
+,Number of Activities: 4,,Stoat,75.00%,75.00%,75.00%
+,Lines of Code: 4673,,Re,100.00%,100.00%,100.00%
+,,,Monkey,75.00%,75.00%,75.00%
+29,Muzei,net.nurik.roman.muzei,APE,7.69%,7.69%,7.69%
+,Number of Activities: 13,,Stoat,7.69%,7.69%,7.69%
+,Lines of Code: 790,,Re,7.69%,38.50%,7.69%
+,,,Monkey,7.69%,7.69%,7.69%
+30,Alkaa,com.escodro.alkaa,APE,100.00%,100.00%,100.00%
+,Number of Activities: 1,,Stoat,100.00%,100.00%,100.00%
+,Lines of Code: 201,,Re,100.00%,100.00%,100.00%
+,,,Monkey,100.00%,100.00%,100.00%
+31,Eventyay Attendee App,com.eventyay.attendee,APE,50.00%,50.00%,50.00%
+,Number of Activities: 4,,Stoat,25.00%,25.00%,25.00%
+,Lines of Code: 1547,,Re,50.00%,50.00%,50.00%
+,,,Monkey,50.00%,50.00%,50.00%
+32,mozilla-mobile,org.mozilla.fenix.debug,APE,29.41%,29.41%,29.41%
+,Number of Activities: 17,,Stoat,5.88%,5.88%,5.88%
+,Lines of Code: 139611,,Re,29.41%,29.41%,29.41%
+,,,Monkey,17.65%,29.41%,29.41%
+33,Pedometer,de.j4velin.pedometer,APE,50.00%,50.00%,50.00%
+,Number of Activities: 2,,Stoat,50.00%,50.00%,50.00%
+,Lines of Code: 1015,,Re,50.00%,50.00%,50.00%
+,,,Monkey,50.00%,50.00%,50.00%
+34,OpenHub,com.thirtydegreesray.openhub,APE,7.41%,7.41%,7.41%
+,Number of Activities: 27,,Stoat,3.70%,3.70%,3.70%
+,Lines of Code: 17458,,Re,7.41%,3.70%,3.70%
+,,,Monkey,7.41%,7.41%,7.41%
+35,Minimal-Todo,com.avjindersinghsekhon.minimaltodo,APE,80.00%,80.00%,80.00%
+,Number of Activities: 5,,Stoat,80.00%,80.00%,80.00%
+,Lines of Code: 1070,,Re,80.00%,80.00%,80.00%
+,,,Monkey,80.00%,80.00%,80.00%
+36,PassAndroid,org.ligi.passandroid,APE,61.54%,61.54%,61.50%
+,Number of Activities: 13,,Stoat,38.46%,46.15%,38.50%
+,Lines of Code: 3243,,Re,53.85%,53.85%,53.80%
+,,,Monkey,46.15%,61.54%,46.15%
+37,CameraRoll,us.koller.cameraroll,APE,71.43%,78.60%,78.60%
+,Number of Activities: 14,,Stoat,80.00%,71.40%,64.30%
+,Lines of Code: 9281,,Re,71.43%,71.43%,71.43%
+,,,Monkey,35.71%,28.57%,28.57%
+38,LibreNews,app.librenews.io.librenews,APE,100.00%,100.00%,100.00%
+,Number of Activities: 2,,Stoat,100.00%,100.00%,100.00%
+,Lines of Code: 510,,Re,100.00%,100.00%,100.00%
+,,,Monkey,100.00%,100.00%,100.00%
+39,Transistor,org.y20k.transistor,APE,100.00%,100.00%,100.00%
+,Number of Activities: 1,,Stoat,100.00%,100.00%,100.00%
+,Lines of Code: 3154,,Re,100.00%,100.00%,100.00%
+,,,Monkey,100.00%,100.00%,100.00%
+40,ChangeDetection,com.bernaferrari.changedetection,APE,100.00%,100.00%,100.00%
+,Number of Activities: 1,,Stoat,100.00%,100.00%,100.00%
+,Lines of Code:7554,,Re,100.00%,100.00%,100.00%
+,,,Monkey,100.00%,100.00%,100.00%

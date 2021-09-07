@@ -1,0 +1,134 @@
+Re Crash
+
+01_naman14.timber
+java.lang.NullPointerException: Attempt to invoke virtual method 'void androidx.fragment.app.Fragment.setNextAnim(int)' on a null object reference
+java.lang.IllegalStateException
+java.lang.IllegalArgumentException: setNextMediaPlayer failed.: status=0xFFFFFFED
+java.lang.NullPointerException: Attempt to invoke virtual method 'int com.naman14.timber.MusicService$MultiPlayer.getAudioSessionId()' on a null object reference
+java.lang.RuntimeException: Unable to start service com.naman14.timber.MusicService@3020591 with Intent { act=updatepreferences cmp=naman14.timber/com.naman14.timber.MusicService (has extras) }: java.lang.IllegalStateException
+java.lang.RuntimeException: Unable to start service com.naman14.timber.MusicService@50aa76e with Intent { act=com.naman14.timber.previous cmp=naman14.timber/com.naman14.timber.MusicService }: java.lang.IndexOutOfBoundsException: Index: 21, Size: 1
+java.lang.IllegalStateException at android.os.Parcel.readException(Parcel.java:1690)
+java.lang.ArrayIndexOutOfBoundsException: length=33; index=-1
+java.lang.NullPointerException: Attempt to invoke virtual method 'android.content.pm.ApplicationInfo android.content.Context.getApplicationInfo()' on a null object reference
+java.lang.OutOfMemoryError: Failed to allocate a 132508 byte allocation with 16016 free bytes and 15KB until OOM
+java.lang.RuntimeException: An error occurred while executing doInBackground()
+java.lang.RuntimeException: Unable to start activity ComponentInfo{naman14.timber/com.naman14.timber.activities.MainActivity}: java.lang.IllegalStateException: Unknown URL: content://media/external/audio/media/-1
+java.lang.RuntimeException: Unable to unbind to service com.naman14.timber.MusicService@50aa76e with Intent { cmp=naman14.timber/com.naman14.timber.MusicService }: java.util.ConcurrentModificationException
+02_SuntimesWidget
+3_alarmclock
+4_notes
+5_PasswordMaker
+6_swiftp
+7_materialistic
+java.lang.NullPointerException: Attempt to invoke virtual method 'int java.lang.String.length()' on a null object reference
+java.lang.NullPointerException: Attempt to invoke virtual method 'int android.widget.Editor$SelectionModifierCursorController.getMinTouchOffset()' on a null object reference
+8_antennapod
+java.lang.IllegalArgumentException: shownotesProvider = null at de.danoeh.antennapod.core.util.playback.Timeline.(Timeline.java:51)
+java.lang.NullPointerException: Attempt to invoke virtual method 'void androidx.appcompat.app.ActionBar.setTitle(java.lang.CharSequence)' on a null object reference at de.danoeh.antennapod.fragment.gpodnet.TagFragment.onActivityCreated(TagFragment.java:48)
+java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object androidx.fragment.app.FragmentActivity.getSystemService(java.lang.String)' on a null object reference at com.bytehamster.lib.preferencesearch.SearchPreferenceFragment$3.run(SearchPreferenceFragment.java:178)
+java.lang.NullPointerException: Attempt to invoke virtual method 'long de.danoeh.antennapod.core.feed.FeedItem.getFeedId()' on a null object reference at de.danoeh.antennapod.fragment.ItemFragment.openPodcast(ItemFragment.java:378)
+09_vanilla
+java.lang.NoSuchMethodError: No virtual method isRequestPinShortcutSupported()Z in class Landroid/content/pm/ShortcutManager; or its super classes (declaration of 'android.content.pm.ShortcutManager' appears in /system/framework/framework.jar)
+android.database.CursorIndexOutOfBoundsException: Index -1 requested, with a size of 0 at android.database.AbstractCursor.checkPosition(AbstractCursor.java:460)
+10_org.liberty.android.fantastischmemo
+java.lang.NullPointerException: throw with null exception at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:888)
+java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.String org.liberty.android.fantastischmemo.entity.Card.getQuestion()' on a null object reference
+java.lang.IllegalArgumentException: View=DecorView@8ea64d[请稍等] not attached to window manager
+java.lang.NullPointerException: Attempt to invoke virtual method 'void org.liberty.android.fantastischmemo.ui.GradeButtonsFragment.gradeCurrentCard(int)' on a null object reference
+java.lang.IndexOutOfBoundsException: Index: 13, Size: 3 at java.util.ArrayList.get(ArrayList.java:411)
+java.lang.RuntimeException: An error occurred while executing doInBackground() at androidx.loader.content.ModernAsyncTask3.𝑑𝑜𝑛𝑒(𝑀𝑜𝑑𝑒𝑟𝑛𝐴𝑠𝑦𝑛𝑐𝑇𝑎𝑠𝑘.𝑗𝑎𝑣𝑎:164)
+𝑗𝑎𝑣𝑎.𝑙𝑎𝑛𝑔.𝐼𝑙𝑙𝑒𝑔𝑎𝑙𝑆𝑡𝑎𝑡𝑒𝐸𝑥𝑐𝑒𝑝𝑡𝑖𝑜𝑛:𝐶𝑎𝑛𝑛𝑜𝑡𝑝𝑒𝑟𝑓𝑜𝑟𝑚𝑡ℎ𝑖𝑠𝑎𝑐𝑡𝑖𝑜𝑛𝑎𝑓𝑡𝑒𝑟𝑜𝑛𝑆𝑎𝑣𝑒𝐼𝑛𝑠𝑡𝑎𝑛𝑐𝑒𝑆𝑡𝑎𝑡𝑒𝑎𝑡𝑎𝑛𝑑𝑟𝑜𝑖𝑑𝑥.𝑓𝑟𝑎𝑔𝑚𝑒𝑛𝑡.𝑎𝑝𝑝.𝐹𝑟𝑎𝑔𝑚𝑒𝑛𝑡𝑀𝑎𝑛𝑎𝑔𝑒𝑟.𝑐ℎ𝑒𝑐𝑘𝑆𝑡𝑎𝑡𝑒𝐿𝑜𝑠𝑠(𝐹𝑟𝑎𝑔𝑚𝑒𝑛𝑡𝑀𝑎𝑛𝑎𝑔𝑒𝑟.𝑗𝑎𝑣𝑎:1703)
+𝑗𝑎𝑣𝑎.𝑙𝑎𝑛𝑔.𝑁𝑢𝑙𝑙𝑃𝑜𝑖𝑛𝑡𝑒𝑟𝐸𝑥𝑐𝑒𝑝𝑡𝑖𝑜𝑛:𝐴𝑡𝑡𝑒𝑚𝑝𝑡𝑡𝑜𝑖𝑛𝑣𝑜𝑘𝑒𝑣𝑖𝑟𝑡𝑢𝑎𝑙𝑚𝑒𝑡ℎ𝑜𝑑′𝑗𝑎𝑣𝑎.𝑙𝑎𝑛𝑔.𝐼𝑛𝑡𝑒𝑔𝑒𝑟𝑜𝑟𝑔.𝑙𝑖𝑏𝑒𝑟𝑡𝑦.𝑎𝑛𝑑𝑟𝑜𝑖𝑑.𝑓𝑎𝑛𝑡𝑎𝑠𝑡𝑖𝑠𝑐ℎ𝑚𝑒𝑚𝑜.𝑒𝑛𝑡𝑖𝑡𝑦.𝐶𝑎𝑟𝑑.𝑔𝑒𝑡𝐼𝑑()′𝑜𝑛𝑎𝑛𝑢𝑙𝑙𝑜𝑏𝑗𝑒𝑐𝑡𝑟𝑒𝑓𝑒𝑟𝑒𝑛𝑐𝑒
+𝑗𝑎𝑣𝑎.𝑙𝑎𝑛𝑔.𝑅𝑢𝑛𝑡𝑖𝑚𝑒𝐸𝑥𝑐𝑒𝑝𝑡𝑖𝑜𝑛:𝑈𝑛𝑎𝑏𝑙𝑒𝑡𝑜𝑑𝑒𝑠𝑡𝑟𝑜𝑦𝑎𝑐𝑡𝑖𝑣𝑖𝑡𝑦𝑜𝑟𝑔.𝑙𝑖𝑏𝑒𝑟𝑡𝑦.𝑎𝑛𝑑𝑟𝑜𝑖𝑑.𝑓𝑎𝑛𝑡𝑎𝑠𝑡𝑖𝑠𝑐ℎ𝑚𝑒𝑚𝑜/𝑜𝑟𝑔.𝑙𝑖𝑏𝑒𝑟𝑡𝑦.𝑎𝑛𝑑𝑟𝑜𝑖𝑑.𝑓𝑎𝑛𝑡𝑎𝑠𝑡𝑖𝑠𝑐ℎ𝑚𝑒𝑚𝑜.𝑢𝑖.𝐶𝑎𝑟𝑑𝑃𝑙𝑎𝑦𝑒𝑟𝐴𝑐𝑡𝑖𝑣𝑖𝑡𝑦:𝑗𝑎𝑣𝑎.𝑙𝑎𝑛𝑔.𝐼𝑙𝑙𝑒𝑔𝑎𝑙𝐴𝑟𝑔𝑢𝑚𝑒𝑛𝑡𝐸𝑥𝑐𝑒𝑝𝑡𝑖𝑜𝑛:𝑆𝑒𝑟𝑣𝑖𝑐𝑒𝑛𝑜𝑡𝑟𝑒𝑔𝑖𝑠𝑡𝑒𝑟𝑒𝑑
+𝑗𝑎𝑣𝑎.𝑙𝑎𝑛𝑔.𝑅𝑢𝑛𝑡𝑖𝑚𝑒𝐸𝑥𝑐𝑒𝑝𝑡𝑖𝑜𝑛:𝑈𝑛𝑎𝑏𝑙𝑒𝑡𝑜𝑠𝑡𝑎𝑟𝑡𝑎𝑐𝑡𝑖𝑣𝑖𝑡𝑦𝐶𝑜𝑚𝑝𝑜𝑛𝑒𝑛𝑡𝐼𝑛𝑓𝑜𝑜𝑟𝑔.𝑙𝑖𝑏𝑒𝑟𝑡𝑦.𝑎𝑛𝑑𝑟𝑜𝑖𝑑.𝑓𝑎𝑛𝑡𝑎𝑠𝑡𝑖𝑠𝑐ℎ𝑚𝑒𝑚𝑜/𝑜𝑟𝑔.𝑙𝑖𝑏𝑒𝑟𝑡𝑦.𝑎𝑛𝑑𝑟𝑜𝑖𝑑.𝑓𝑎𝑛𝑡𝑎𝑠𝑡𝑖𝑠𝑐ℎ𝑚𝑒𝑚𝑜.𝑢𝑖.𝑃𝑎𝑖𝑛𝑡𝐴𝑐𝑡𝑖𝑣𝑖𝑡𝑦:𝑗𝑎𝑣𝑎.𝑙𝑎𝑛𝑔.𝐼𝑙𝑙𝑒𝑔𝑎𝑙𝑆𝑡𝑎𝑡𝑒𝐸𝑥𝑐𝑒𝑝𝑡𝑖𝑜𝑛:𝑂𝑛𝑙𝑦𝑓𝑢𝑙𝑙𝑠𝑐𝑟𝑒𝑒𝑛𝑎𝑐𝑡𝑖𝑣𝑖𝑡𝑖𝑒𝑠𝑐𝑎𝑛𝑟𝑒𝑞𝑢𝑒𝑠𝑡𝑜𝑟𝑖𝑒𝑛𝑡𝑎𝑡𝑖𝑜𝑛 𝑗𝑎𝑣𝑎.𝑙𝑎𝑛𝑔.𝑁𝑢𝑙𝑙𝑃𝑜𝑖𝑛𝑡𝑒𝑟𝐸𝑥𝑐𝑒𝑝𝑡𝑖𝑜𝑛:𝐴𝑡𝑡𝑒𝑚𝑝𝑡𝑡𝑜𝑖𝑛𝑣𝑜𝑘𝑒𝑖𝑛𝑡𝑒𝑟𝑓𝑎𝑐𝑒𝑚𝑒𝑡ℎ𝑜𝑑′𝑣𝑜𝑖𝑑𝑜𝑟𝑔.𝑙𝑖𝑏𝑒𝑟𝑡𝑦.𝑎𝑛𝑑𝑟𝑜𝑖𝑑.𝑓𝑎𝑛𝑡𝑎𝑠𝑡𝑖𝑠𝑐ℎ𝑚𝑒𝑚𝑜.𝑢𝑖.𝐺𝑟𝑎𝑑𝑒𝐵𝑢𝑡𝑡𝑜𝑛𝑠𝐹𝑟𝑎𝑔𝑚𝑒𝑛𝑡OnCardChangedListener.onCardChanged(org.liberty.android.fantastischmemo.entity.Card, org.liberty.android.fantastischmemo.entity.Card)' on a null object reference
+java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.String org.liberty.android.fantastischmemo.entity.Card.getAnswer()' on a null object reference
+java.lang.NullPointerException: Attempt to invoke virtual method 'void android.graphics.Canvas.drawBitmap(android.graphics.Bitmap, float, float, android.graphics.Paint)' on a null object reference
+11_uhabits
+12_BetterBatteryStats
+java.lang.NullPointerException: Attempt to invoke virtual method 'android.content.res.Resources$Theme android.content.Context.getTheme()' on a null object reference
+java.lang.RuntimeException: Unable to start activity ComponentInfo{com.asksven.betterbatterystats_xdaedition/com.asksven.betterbatterystats.PreferencesFragmentActivity}: android.view.InflateException: Binary XML file line #10: Binary XML file line #10: Error inflating class fragment
+java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.String android.content.Context.getPackageName()' on a null object reference
+13_APhotoManager
+java.lang.NullPointerException: Attempt to invoke interface method 'java.util.List de.k3b.media.IPhotoProperties.getTags()' on a null object reference
+java.lang.IllegalStateException: Can not perform this action after onSaveInstanceState
+Native Crash
+java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.String android.content.Context.getPackageName()' on a null object reference
+java.lang.IllegalStateException: Activity has been destroyed
+jcom.drew.imaging.jpeg.JpegProcessingException: JPEG data is expected to begin with 0xFFD8 (ÿØ) not 0x8950
+jjava.lang.RuntimeException: Unable to start activity ComponentInfo{de.k3b.android.androFotoFinder/de.k3b.android.androFotoFinder.PhotoAutoprocessingEditActivity}: java.lang.NullPointerException
+jjava.lang.ArrayIndexOutOfBoundsException: length=0; index=-1
+java.lang.NullPointerException: Attempt to invoke interface method 'int android.database.Cursor.getColumnIndex(java.lang.String)' on a null object reference
+14_keepassdroid
+java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.String android.net.Uri.getPath()' on a null object reference
+15_K-9 Mail
+16_Wikipedia
+17_it.feio.android.omninotes
+android.content.ActivityNotFoundException: Unable to find explicit activity class {it.feio.android.omninotes.alpha/it.feio.android.omninotes.StatsActivity}; have you declared this activity in your AndroidManifest.xml?
+java.lang.ArrayIndexOutOfBoundsException: length=4; index=-1
+18_leeco
+android.view.WindowManager$BadTokenException: Unable to add window -- token null is not valid; is your activity running?
+19_redmoon
+android.app.RemoteServiceException: Context.startForegroundService() did not then call Service.startForeground()
+20_qksms
+21_cz.martykan.forecastie
+java.lang.IllegalArgumentException: Number of rows/columns can't be lesser than 1.
+android.view.WindowManager$BadTokenException: Unable to add window -- token android.os.BinderProxy@2086418 for displayid = 0 is not valid; is your activity running?
+java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.String java.lang.String.trim()' on a null object reference
+android.app.RemoteServiceException: Context.startForegroundService() did not then call Service.startForeground(): ServiceRecord{b3c462 u0 cz.martykan.forecastie/.notifications.WeatherNotificationService}
+java.lang.IllegalArgumentException: View=DecorView@2912ace[MainActivity] not attached to window manager
+22_skyTube
+java.lang.NullPointerException: Attempt to invoke virtual method 'android.content.res.Resources𝑇ℎ𝑒𝑚𝑒𝑎𝑛𝑑𝑟𝑜𝑖𝑑.𝑐𝑜𝑛𝑡𝑒𝑛𝑡.𝐶𝑜𝑛𝑡𝑒𝑥𝑡.𝑔𝑒𝑡𝑇ℎ𝑒𝑚𝑒()′𝑜𝑛𝑎𝑛𝑢𝑙𝑙𝑜𝑏𝑗𝑒𝑐𝑡𝑟𝑒𝑓𝑒𝑟𝑒𝑛𝑐𝑒
+𝑗𝑎𝑣𝑎.𝑙𝑎𝑛𝑔.𝑁𝑢𝑙𝑙𝑃𝑜𝑖𝑛𝑡𝑒𝑟𝐸𝑥𝑐𝑒𝑝𝑡𝑖𝑜𝑛:𝐴𝑡𝑡𝑒𝑚𝑝𝑡𝑡𝑜𝑖𝑛𝑣𝑜𝑘𝑒𝑣𝑖𝑟𝑡𝑢𝑎𝑙𝑚𝑒𝑡ℎ𝑜𝑑′𝑓𝑟𝑒𝑒.𝑟𝑚.𝑠𝑘𝑦𝑡𝑢𝑏𝑒.𝑏𝑢𝑠𝑖𝑛𝑒𝑠𝑠𝑜𝑏𝑗𝑒𝑐𝑡𝑠.𝑌𝑜𝑢𝑇𝑢𝑏𝑒.𝑛𝑒𝑤𝑝𝑖𝑝𝑒.𝑉𝑖𝑑𝑒𝑜𝐼𝑑𝑓𝑟𝑒𝑒.𝑟𝑚.𝑠𝑘𝑦𝑡𝑢𝑏𝑒.𝑏𝑢𝑠𝑖𝑛𝑒𝑠𝑠𝑜𝑏𝑗𝑒𝑐𝑡𝑠.𝑌𝑜𝑢𝑇𝑢𝑏𝑒.𝑃𝑂𝐽𝑂𝑠.𝑌𝑜𝑢𝑇𝑢𝑏𝑒𝑉𝑖𝑑𝑒𝑜.𝑔𝑒𝑡𝑉𝑖𝑑𝑒𝑜𝐼𝑑()′𝑜𝑛𝑎𝑛𝑢𝑙𝑙𝑜𝑏𝑗𝑒𝑐𝑡𝑟𝑒𝑓𝑒𝑟𝑒𝑛𝑐𝑒
+𝑗𝑎𝑣𝑎.𝑙𝑎𝑛𝑔.𝑅𝑢𝑛𝑡𝑖𝑚𝑒𝐸𝑥𝑐𝑒𝑝𝑡𝑖𝑜𝑛:𝑈𝑛𝑎𝑏𝑙𝑒𝑡𝑜𝑑𝑒𝑠𝑡𝑟𝑜𝑦𝑎𝑐𝑡𝑖𝑣𝑖𝑡𝑦𝑓𝑟𝑒𝑒.𝑟𝑚.𝑠𝑘𝑦𝑡𝑢𝑏𝑒.𝑜𝑠𝑠/𝑓𝑟𝑒𝑒.𝑟𝑚.𝑠𝑘𝑦𝑡𝑢𝑏𝑒.𝑔𝑢𝑖.𝑎𝑐𝑡𝑖𝑣𝑖𝑡𝑖𝑒𝑠.𝑀𝑎𝑖𝑛𝐴𝑐𝑡𝑖𝑣𝑖𝑡𝑦:𝑗𝑎𝑣𝑎.𝑙𝑎𝑛𝑔.𝑁𝑢𝑙𝑙𝑃𝑜𝑖𝑛𝑡𝑒𝑟𝐸𝑥𝑐𝑒𝑝𝑡𝑖𝑜𝑛:𝐴𝑡𝑡𝑒𝑚𝑝𝑡𝑡𝑜𝑖𝑛𝑣𝑜𝑘𝑒𝑣𝑖𝑟𝑡𝑢𝑎𝑙𝑚𝑒𝑡ℎ𝑜𝑑′𝑣𝑜𝑖𝑑𝑓𝑟𝑒𝑒.𝑟𝑚.𝑠𝑘𝑦𝑡𝑢𝑏𝑒.𝑔𝑢𝑖.𝑏𝑢𝑠𝑖𝑛𝑒𝑠𝑠𝑜𝑏𝑗𝑒𝑐𝑡𝑠.𝑎𝑑𝑎𝑝𝑡𝑒𝑟𝑠.𝑉𝑖𝑑𝑒𝑜𝐺𝑟𝑖𝑑𝐴𝑑𝑎𝑝𝑡𝑒𝑟.𝑜𝑛𝐷𝑒𝑠𝑡𝑟𝑜𝑦()′𝑜𝑛𝑎𝑛𝑢𝑙𝑙𝑜𝑏𝑗𝑒𝑐𝑡
+𝑗𝑎𝑣𝑎.𝑙𝑎𝑛𝑔.𝐸𝑟𝑟𝑜𝑟:𝑗𝑎𝑣𝑎.𝑖𝑜.𝐹𝑖𝑙𝑒𝑁𝑜𝑡𝐹𝑜𝑢𝑛𝑑𝐸𝑥𝑐𝑒𝑝𝑡𝑖𝑜𝑛:/𝑠𝑡𝑜𝑟𝑎𝑔𝑒/𝑒𝑚𝑢𝑙𝑎𝑡𝑒𝑑/0/𝐷𝑜𝑤𝑛𝑙𝑜𝑎𝑑/𝑙𝑒𝑎𝑘𝑐𝑎𝑛𝑎𝑟𝑦−𝑓𝑟𝑒𝑒.𝑟𝑚.𝑠𝑘𝑦𝑡𝑢𝑏𝑒.𝑜𝑠𝑠/2021−03−2311−21−26567.ℎ𝑝𝑟𝑜𝑓(𝑁𝑜𝑠𝑢𝑐ℎ𝑓𝑖𝑙𝑒𝑜𝑟𝑑𝑖𝑟𝑒𝑐𝑡𝑜𝑟𝑦)
+𝑗𝑎𝑣𝑎.𝑙𝑎𝑛𝑔.𝐼𝑙𝑙𝑒𝑔𝑎𝑙𝐴𝑟𝑔𝑢𝑚𝑒𝑛𝑡𝐸𝑥𝑐𝑒𝑝𝑡𝑖𝑜𝑛:𝐻𝑝𝑟𝑜𝑓𝑓𝑖𝑙𝑒𝑖𝑠0𝑏𝑦𝑡𝑒𝑙𝑒𝑛𝑔𝑡ℎ6.𝑗𝑎𝑣𝑎.𝑙𝑎𝑛𝑔.𝑁𝑢𝑙𝑙𝑃𝑜𝑖𝑛𝑡𝑒𝑟𝐸𝑥𝑐𝑒𝑝𝑡𝑖𝑜𝑛:𝐴𝑡𝑡𝑒𝑚𝑝𝑡𝑡𝑜𝑖𝑛𝑣𝑜𝑘𝑒𝑣𝑖𝑟𝑡𝑢𝑎𝑙𝑚𝑒𝑡ℎ𝑜𝑑′𝑣𝑜𝑖𝑑𝑓𝑟𝑒𝑒.𝑟𝑚.𝑠𝑘𝑦𝑡𝑢𝑏𝑒.𝑔𝑢𝑖.𝑓𝑟𝑎𝑔𝑚𝑒𝑛𝑡𝑠.𝑀𝑎𝑖𝑛𝐹𝑟𝑎𝑔𝑚𝑒𝑛𝑡SimplePagerAdapter.updateVisibleTabs(com.google.android.material.tabs.TabLayout)' on a null object reference
+java.lang.IllegalStateException: FragmentManager has been destroyed
+23_nextcloud
+24_fairEmail
+25_PocketHub
+com.afollestad.materialdialogs.MaterialDialog$DialogException: Bad window token, you cannot show a dialog before an Activity is created or after it's hidden.
+io.reactivex.exceptions.UndeliverableException: android.accounts.OperationCanceledException
+26_io.pslab
+java.lang.NullPointerException: Attempt to invoke virtual method 'boolean android.os.Handler.sendMessage(android.os.Message)' on a null object reference
+java.lang.NullPointerException: Attempt to invoke virtual method 'android.view.View android.view.View.findViewById(int)' on a null object reference
+java.lang.ArrayIndexOutOfBoundsException: length=0; index=0
+java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.String java.lang.Object.toString()' on a null object reference
+java.lang.NullPointerException: Attempt to invoke virtual method 'void android.view.View.setVisibility(int)' on a null object reference
+java.lang.RuntimeException: Unable to start activity ComponentInfo{io.pslab/io.pslab.activity.MainActivity}: java.lang.NullPointerException: Attempt to read from field 'boolean io.pslab.communication.ScienceLab.calibrated' on a null object reference
+java.lang.NullPointerException: Attempt to invoke virtual method 'void android.widget.ProgressBar.setIndeterminate(boolean)' on a null object reference
+27_plees-tracker
+28_Rugby Ranker
+29_Muzei
+30_Alkaa
+1.(Andriod 10) android.content.ActivityNotFoundException: No Activity found to handle Intent { act=android.intent.action.VIEW dat=https://github.com/... }
+
+31_Eventyay Attendee
+1.(Andriod 10) java.lang.IllegalArgumentException: Navigation action/destination com.eventyay.attendee:id/action_welcome_to_auth cannot be found from the current destination Destination(com.eventyay.attendee:id/authFragment) label=AuthFragment class=org.fossasia.openevent.general.auth.AuthFragmen
+
+32_mozilla-mobile
+android.os.StrictMode$StrictModeViolation: policy=327743 violation=2
+33_pedometer
+34_openhub
+35_com.avjindersinghsekhon.minimaltodo
+java.lang.NullPointerException: Attempt to invoke virtual method 'int android.widget.Editor$SelectionModifierCursorController.getMinTouchOffset()' on a null object reference
+36_PassAndroid
+(Andriod 10)android.content.ActivityNotFoundException: No Activity found to handle Intent { act=android.intent.action.VIEW dat=https://transifex.com/... }
+37_us.koller.cameraroll
+java.lang.RuntimeException: android.os.TransactionTooLargeException: data parcel size 2499668 bytes
+java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.String us.koller.cameraroll.data.models.AlbumItem.getType(android.content.Context)' on a null object reference
+java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.String us.koller.cameraroll.data.models.AlbumItem.getPath()' on a null object reference
+java.lang.IllegalArgumentException: Comparison method violates its general contract!
+java.lang.RuntimeException: Failure from system
+java.lang.NullPointerException: Attempt to read from field 'boolean us.koller.cameraroll.data.models.Album.excluded' on a null object reference
+java.util.concurrent.TimeoutException: com.android.internal.os.BinderInternal$GcWatcher.finalize() timed out after 10 seconds
+java.lang.NullPointerException: Attempt to read from field 'boolean us.koller.cameraroll.data.models.Album.pinned' on a null object reference
+java.lang.NullPointerException: Attempt to invoke virtual method 'void us.koller.cameraroll.data.provider.FilesProvider.onDestroy()' on a null object reference
+java.lang.IllegalStateException: Could not execute method for android:onClick
+java.lang.RuntimeException: Unable to start activity ComponentInfo{us.koller.cameraroll/us.koller.cameraroll.ui.MainActivity}: java.util.ConcurrentModificationException
+38_LibreNews
+java.lang.NullPointerException: Attempt to invoke virtual method 'android.content.Context android.view.View.getContext()' on a null object reference
+39_Transistor
+android.content.ActivityNotFoundException: No Activity found to handle Intent { act=android.intent.action.VIEW dat=https://github.com/... }
+40_ChangeDetection
+java.lang.IllegalStateException: kindPicker must not be null
+com.airbnb.epoxy.ImmutableModelException: The model was changed between being bound and when models were rebuilt Position: 1 Model: ColorPickerItemEpoxy_{switchIsOn=true, gradientColor=(-84869, -33185), allowDeselection=false}ColorPickerItemEpoxy_{id=-4391966661238838172, viewType=2131558439, shown=true, addedToAdapter=false}
