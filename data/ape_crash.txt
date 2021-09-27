@@ -1,0 +1,185 @@
+APE Crash:
+
+10_AnyMemo : 1 th crash info: java.lang.IllegalArgumentException@java.lang.IllegalArgumentException: View=androidx.appcompat.app.AppCompatDelegateImpl$ListMenuDecorView{89dcd43 V.E...... ......I. 0,0-0,0} not attached to window manager
+
+2 th crash info: java.lang.NullPointerException@java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Integer org.liberty.android.fantastischmemo.entity.Card.getId()' on a null object reference
+
+3 th crash info: java.lang.IllegalStateException@java.lang.IllegalStateException: FragmentManager has been destroyed
+
+4 th crash info: android.database.sqlite.SQLiteDatabaseCorruptException@android.database.sqlite.SQLiteDatabaseCorruptException: database disk image is malformed (Sqlite code 11 SQLITE_CORRUPT), (OS error - 11:Try again)
+
+5 th crash info: java.lang.IllegalArgumentException@java.lang.IllegalArgumentException: View=DecorView@d04f17f[请稍等] not attached to window manager
+
+6 th crash info: java.lang.NullPointerException@java.lang.NullPointerException: throw with null exception
+
+7 th crash info: java.lang.NullPointerException@java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Integer org.liberty.android.fantastischmemo.entity.Card.getOrdinal()' on a null object reference
+
+8 th crash info: java.lang.NumberFormatException@java.lang.NumberFormatException: For input string: "1632671540704"
+
+9 th crash info: java.lang.NullPointerException@java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.String org.liberty.android.fantastischmemo.entity.Card.getQuestion()' on a null object reference
+
+32_mozilla-mobile :
+1 th crash info: java.lang.IllegalStateException@java.lang.IllegalStateException: Fragment BrowserFragment{3ba9e57} (5e571255-ecc1-487a-bef4-9654bc33a13f) not attached to a context.
+
+2 th crash info: java.lang.IllegalStateException@java.lang.IllegalStateException: Can't access the Fragment View's LifecycleOwner when getView() is null i.e., before onCreateView() or after onDestroyView()
+
+26_fossasia :
+1 th crash info: java.lang.IllegalArgumentException@java.lang.IllegalArgumentException: Invalid URL port: "23:47"
+
+2 th crash info: java.lang.ArrayIndexOutOfBoundsException@java.lang.ArrayIndexOutOfBoundsException: length=0; index=0
+
+3 th crash info: java.lang.NullPointerException@java.lang.NullPointerException: Attempt to invoke virtual method 'void android.view.View.setVisibility(int)' on a null object reference
+
+4 th crash info: java.lang.IllegalArgumentException@java.lang.IllegalArgumentException: Invalid URL host: "Find Answers"
+
+5 th crash info: java.lang.NullPointerException@java.lang.NullPointerException: Attempt to invoke virtual method 'android.view.View android.app.Activity.findViewById(int)' on a null object reference
+
+6 th crash info: java.lang.NullPointerException@java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.String java.lang.Object.toString()' on a null object reference
+
+17_omni-notes :
+1 th crash info: android.content.ActivityNotFoundException@android.content.ActivityNotFoundException: Unable to find explicit activity class {it.feio.android.omninotes.alpha/it.feio.android.omninotes.StatsActivity}; have you declared this activity in your AndroidManifest.xml?
+
+2 th crash info: java.lang.NoSuchMethodError@java.lang.NoSuchMethodError: No virtual method hasCompleted()Z in class Lrx/subjects/Subject; or its super classes (declaration of 'rx.subjects.Subject' appears in /data/app/it.feio.android.omninotes-1/base.apk:classes2.dex)
+
+13_APhotoManager :
+1 th crash info: java.lang.NullPointerException@java.lang.NullPointerException: Unable to start activity ComponentInfo{de.k3b.android.androFotoFinder/de.k3b.android.androFotoFinder.PhotoAutoprocessingEditActivity}: java.lang.NullPointerException
+
+2 th crash info: java.lang.IllegalArgumentException@java.lang.IllegalArgumentException: east must be in [-180.0,180.0]
+
+3 th crash info: java.lang.ArrayIndexOutOfBoundsException@java.lang.ArrayIndexOutOfBoundsException: length=0; index=-1
+
+4 th crash info: java.lang.NullPointerException@java.lang.NullPointerException: Attempt to invoke interface method 'java.util.List de.k3b.media.IPhotoProperties.getTags()' on a null object reference
+
+5 th crash info: java.lang.IllegalStateException@java.lang.IllegalStateException: Can not perform this action after onSaveInstanceState
+
+21_forecastie :
+1 th crash info: java.lang.IllegalArgumentException@java.lang.IllegalArgumentException: View=DecorView@a1f43ef[MainActivity] not attached to window manager
+
+2 th crash info: java.lang.IllegalStateException@java.lang.IllegalStateException: ListPreference requires an entries array and an entryValues array.
+
+3 th crash info: android.view.WindowManager 𝐵𝑎𝑑𝑇𝑜𝑘𝑒𝑛𝐸𝑥𝑐𝑒𝑝𝑡𝑖𝑜𝑛@𝑎𝑛𝑑𝑟𝑜𝑖𝑑.𝑣𝑖𝑒𝑤.𝑊𝑖𝑛𝑑𝑜𝑤𝑀𝑎𝑛𝑎𝑔𝑒𝑟 BadTokenException: Unable to add window -- token android.os.BinderProxy@175f402 for displayid = 0 is not valid; is your activity running?
+
+4 th crash info: java.lang.IllegalArgumentException@java.lang.IllegalArgumentException: Number of rows/columns can't be lesser than 1.
+
+12_BetterBatteryStats :
+1 th crash info: java.lang.IllegalStateException@java.lang.IllegalStateException: Fragment com.asksven.betterbatterystats.PreferencesFragmentActivity$PrefsFragment did not create a view.
+
+2 th crash info: java.lang.NullPointerException@java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.String android.content.Context.getPackageName()' on a null object reference
+
+3 th crash info: java.lang.NullPointerException@java.lang.NullPointerException: Attempt to invoke virtual method 'android.content.res.Resources$Theme android.content.Context.getTheme()' on a null object reference
+
+22_skyTube :
+1 th crash info: java.lang.NullPointerException@java.lang.NullPointerException: Attempt to invoke virtual method 'void free.rm.skytube.gui.businessobjects.adapters.VideoGridAdapter.onDestroy()' on a null object reference
+
+2 th crash info: java.lang.RuntimeException@java.lang.RuntimeException: there are no permissions
+
+3 th crash info: java.lang.NullPointerException@java.lang.NullPointerException: Attempt to invoke virtual method 'void free.rm.skytube.businessobjects.YouTube.POJOs.YouTubeVideo.shareVideo(android.content.Context)' on a null object reference
+
+02_SuntimesWidget :
+1 th crash info: java.lang.IndexOutOfBoundsException@java.lang.IndexOutOfBoundsException: contextStart : 0, start : 0, offset : 9, end : 10, contextEnd : 10, text.length() : 9, isRtl : false, text : #51499724
+
+28_Rugby Ranker :
+1 th crash info: java.lang.IllegalStateException@java.lang.IllegalStateException: Can not perform this action after onSaveInstanceState
+
+40_ChangeDetection :
+1 th crash info: java.lang.IllegalStateException@java.lang.IllegalStateException: kindPicker must not be null
+
+2 th crash info: com.airbnb.epoxy.ImmutableModelException@com.airbnb.epoxy.ImmutableModelException: The model was changed between being bound and when models were rebuilt Position: 0 Model: ColorPickerItemEpoxy_{switchIsOn=true, gradientColor=(-12532481, -11309570), allowDeselection=false}ColorPickerItemEpoxy_{id=-4391965561727209961, viewType=2131558439, shown=true, addedToAdapter=false}
+
+Epoxy attribute fields on a model cannot be changed once the model is added to a controller. Check that these fields are not updated, or that the assigned objects are not mutated, outside of the buildModels method. The only exception is if the change is made inside an Interceptor callback. Consider using an interceptor if you need to change a model after it is added to the controller and before it is set on the adapter. If the model is already set on the adapter then you must call requestModelBuild instead to recreate all models.
+
+3 th crash info: java.lang.IllegalArgumentException@java.lang.IllegalArgumentException: View=DecorView@cde88dc[MainActivity] not attached to window manager
+
+4 th crash info: java.lang.IllegalArgumentException@java.lang.IllegalArgumentException: navigation destination com.bernaferrari.changedetection:id/action_addNew_to_webviewFragment is unknown to this NavController
+
+19_redmoon :
+1 th crash info: android.app.RemoteServiceException@android.app.RemoteServiceException: Context.startForegroundService() did not then call Service.startForeground()
+
+20_qksms :
+1 th crash info: java.lang.IllegalArgumentException@java.lang.IllegalArgumentException: View=androidx.appcompat.app.AppCompatDelegateImpl$ListMenuDecorView{dbc9a07 V.E...... ......I. 0,0-0,0} not attached to window manager
+
+33_pedometer :
+1 th crash info: java.lang.NullPointerException@java.lang.NullPointerException: Attempt to invoke virtual method 'android.view.View android.view.View.findViewById(int)' on a null object reference
+
+23_nextcloud :
+1 th crash info: Native crash@Native crash: Segmentation fault
+
+14_keepassdroid :
+1 th crash info: java.lang.IllegalArgumentException@java.lang.IllegalArgumentException: View=androidx.appcompat.app.AppCompatDelegateImpl$ListMenuDecorView{c809ec7 V.E...... ......I. 0,0-0,0} not attached to window manager
+
+31_Eventyay Attendee :
+1 th crash info: java.util.NoSuchElementException@java.util.NoSuchElementException: List is empty.
+
+38_LibreNews :
+1 th crash info: java.lang.ArrayIndexOutOfBoundsException@java.lang.ArrayIndexOutOfBoundsException: length=0; index=0
+
+2 th crash info: java.lang.NullPointerException@java.lang.NullPointerException: Attempt to invoke virtual method 'android.content.Context android.view.View.getContext()' on a null object reference
+
+37_CameraRoll :
+1 th crash info: java.lang.NullPointerException@java.lang.NullPointerException: Attempt to invoke virtual method 'void us.koller.cameraroll.data.provider.FilesProvider.onDestroy()' on a null object reference
+
+2 th crash info: java.lang.IllegalStateException@java.lang.IllegalStateException: Couldn't read row 4501, col 0 from CursorWindow. Make sure the Cursor is initialized correctly before accessing data from it.
+
+3 th crash info: java.lang.ClassCastException@java.lang.ClassCastException: android.widget.HeaderViewListAdapter cannot be cast to android.support.v7.view.menu.MenuAdapter
+
+4 th crash info: java.lang.NullPointerException@java.lang.NullPointerException: Attempt to read from field 'boolean us.koller.cameraroll.data.models.Album.excluded' on a null object reference
+
+5 th crash info: java.lang.NullPointerException@java.lang.NullPointerException: Attempt to invoke interface method 'void us.koller.cameraroll.util.animators.ColorFade$ToolbarTitleFadeCallback.setTitle(android.support.v7.widget.Toolbar)' on a null object reference
+
+6 th crash info: android.os.TransactionTooLargeException@android.os.TransactionTooLargeException: data parcel size 900548 bytes
+
+7 th crash info: java.lang.NullPointerException@java.lang.NullPointerException: Attempt to invoke virtual method 'android.net.Uri us.koller.cameraroll.data.models.AlbumItem.getUri(android.content.Context)' on a null object reference
+
+8 th crash info: java.lang.NullPointerException@java.lang.NullPointerException: Attempt to invoke interface method 'android.view.MenuItem android.view.Menu.findItem(int)' on a null object reference
+
+25_PocketHub :
+1 th crash info: java.lang.IllegalArgumentException@java.lang.IllegalArgumentException: View=DecorView@e87ef96[LoginWebViewActivity] not attached to window manager
+
+2 th crash info: android.accounts.OperationCanceledException@android.accounts.OperationCanceledException: android.accounts.OperationCanceledException
+
+3 th crash info: com.afollestad.materialdialogs.MaterialDialog 𝐷𝑖𝑎𝑙𝑜𝑔𝐸𝑥𝑐𝑒𝑝𝑡𝑖𝑜𝑛@𝑐𝑜𝑚.𝑎𝑓𝑜𝑙𝑙𝑒𝑠𝑡𝑎𝑑.𝑚𝑎𝑡𝑒𝑟𝑖𝑎𝑙𝑑𝑖𝑎𝑙𝑜𝑔𝑠.𝑀𝑎𝑡𝑒𝑟𝑖𝑎𝑙𝐷𝑖𝑎𝑙𝑜𝑔 DialogException: Bad window token, you cannot show a dialog before an Activity is created or after it's hidden.
+
+7_materialistic :
+1 th crash info: java.lang.NullPointerException@java.lang.NullPointerException: Attempt to invoke virtual method 'int android.widget.Editor$SelectionModifierCursorController.getMinTouchOffset()' on a null object reference
+
+2 th crash info: java.lang.NullPointerException@java.lang.NullPointerException: Attempt to invoke interface method 'java.lang.String java.lang.CharSequence.toString()' on a null object reference
+
+3 th crash info: java.lang.ArrayIndexOutOfBoundsException@java.lang.ArrayIndexOutOfBoundsException: length=100; index=100
+
+4 th crash info: java.lang.NullPointerException@java.lang.NullPointerException: Attempt to invoke virtual method 'void android.view.View.setOnClickListener(android.view.View$OnClickListener)' on a null object reference
+
+total number of crashes for APE: 159
+
+crash type:
+NullPointerException: 23
+
+IllegalArgumentException: 12
+
+IllegalStateException: 9
+
+ArrayIndexOutOfBoundsException: 5
+
+ClassCastException: 2
+
+RuntimeException: 1
+
+NumberFormatException: 1
+
+ActivityNotFoundException: 1
+
+RemoteServiceException: 1
+
+SQLiteDatabaseCorruptException: 1
+
+NoSuchMethodError: 1
+
+NoSuchElementException: 1
+
+BadTokenException: 1
+
+TransactionTooLargeException: 1
+
+Native crash: 1
+
+third-party-library Exceptions: - ImmutableModelException: 1 - io.reactivex.exceptions.UndeliverableException: android.accounts.OperationCanceledException: 1 - com.afollestad.materialdialogs.MaterialDialog$DialogException: 1
+
